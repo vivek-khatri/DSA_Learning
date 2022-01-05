@@ -1,6 +1,6 @@
-Question
-
-Code
+#Question
+---------
+##Code
 
 class Solution {
     public int[] buildArray(int[] nums) {
