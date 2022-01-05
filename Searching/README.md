@@ -1,7 +1,7 @@
 ## Day1
 
 *Easy*
-- [Square Root](/../Square.md)
+- [Square Root](https://github.com/vivek-khatri/DSA_Learning/blob/main/Searching/Square.md)
 - [Guess Number Higher or Lower](DSA_Learning/Searching/Guess Number Higher or Lower.md)
 - [First Bad Version](DSA_Learning/Searching/First Bad Version.md)
 - [Two Sum II - Input array is sorted](DSA_Learning/Searching/Two Sum II - Input array is sorted.md)
