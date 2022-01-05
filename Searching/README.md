@@ -1,10 +1,10 @@
 ## Day1
 
 *Easy*
-- [Square Root](../Square Root.md)
-- [Guess Number Higher or Lower](../Guess Number Higher or Lower.md)
-- [First Bad Version](../First Bad Version.md)
-- [Two Sum II - Input array is sorted](../Two Sum II - Input array is sorted.md)
+- [Square Root](DSA_Learning/Searching/Square Root.md)
+- [Guess Number Higher or Lower](DSA_Learning/Searching/Guess Number Higher or Lower.md)
+- [First Bad Version](DSA_Learning/Searching/First Bad Version.md)
+- [Two Sum II - Input array is sorted](DSA_Learning/Searching/Two Sum II - Input array is sorted.md)
 
 *Medium*
 - Find First and Last Position of Element in Sorted Array
