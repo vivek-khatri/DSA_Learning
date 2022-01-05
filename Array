@@ -1,1 +1,42 @@
-File Content
+class Solution {
+    public int[] buildArray(int[] nums) {
+        int n=nums.length;
+        for(int k=0;k<n;k++){
+            int i=k;
+            int c=1;
+            if(nums[i]>=0){
+                int pi=i-1,t=0,p=0;
+                while(pi!=i){
+                    pi=i-1;
+                    if(c==1){
+                        t=nums[i];
+                        if(nums[t]==0)
+                            nums[i]=-n;
+                        else
+                            nums[i]=-nums[t];c=0;
+                    }
+                    else{
+                        p=t;t=nums[i];
+                        if(p==0)
+                            nums[i]=-n;
+                        else
+                            nums[i]=-p;c=0;
+                    }
+                    pi=i;
+                    for(int j=0;j<n;j++){
+                        if(i==nums[j]){
+                            i=j;break;
+                        }
+                    }
+                }
+            }
+        }
+        for(int i=0;i<n;i++){
+            if(nums[i]==-n)
+                nums[i]=0;
+            else
+                nums[i]=-nums[i];
+        }
+        return nums;
+    }
+}
