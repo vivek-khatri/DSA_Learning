@@ -1,11 +1,11 @@
 ## Day1
 
-### Easy
+*Easy*
 - Square Root
 - Guess Number Higher or Lower
 - First Bad Version
 - Two Sum II - Input array is sorted
-### Medium
+*Medium
 - Find First and Last Position of Element in Sorted Array
 - Single Element in a Sorted Array
 - Search in Rotated Sorted Array
