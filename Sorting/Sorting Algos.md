@@ -45,6 +45,7 @@ public class Selection_Bubble_InsertionSort {
     
     
     //Insertion Sort
+    
     public static void InsertionSort(int[] arr){
         for(int i=0;i<arr.length-1;i++){
             for(int j=i+1;j>0;j--){
@@ -56,7 +57,9 @@ public class Selection_Bubble_InsertionSort {
             }
         }
     }
+    
     //Selection Sort
+    
     public static void SelectionSort(int[] arr){
         for(int i=0;i<arr.length;i++){
             int m=i;
@@ -69,7 +72,9 @@ public class Selection_Bubble_InsertionSort {
             arr[i]=t;
         }
     }
+    
     //Bubble Sort
+    
     public static void BubbleSort(int[] arr){
         for(int i=0;i<arr.length;i++){
             boolean unswapped = true;
