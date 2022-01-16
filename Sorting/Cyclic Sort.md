@@ -13,7 +13,7 @@ public static void cyclicSort(int[] arr){
         
 }
 
-private static void swap(int[] arr, int a, int b) {
+public static void swap(int[] arr, int a, int b) {
 
         int t=arr[a];
         arr[a]=arr[b];
