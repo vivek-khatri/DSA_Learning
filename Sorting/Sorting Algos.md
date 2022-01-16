@@ -12,16 +12,23 @@ public class Selection_Bubble_InsertionSort {
 //        BubbleSort(arr1);//O(n^2)
 
 //        BubbleSort(arr2);//O(n^2)
-        //Bubble Sort
-        //O(n) as on i=0 pass, no swaps in j. So algorithm will know that input is already sorted.
-        //O(n^2) as on all i, atleast one swap is necessary, so for each j if swapping happens at least 1 time(possibly last),
+
+//Bubble Sort
+
+//O(n) as on i=0 pass, no swaps in j. So algorithm will know that input is already sorted.
+
+//O(n^2) as on all i, atleast one swap is necessary, so for each j if swapping happens at least 1 time(possibly last),
 
 
 //        SelectionSort(arr); //O(n^2)
+
 //        SelectionSort(arr1);//O(n^2)
+
 //        SelectionSort(arr2);//O(n^2)
-        //Selection Sort
-        //O(n^2) Always
+
+//Selection Sort
+
+//O(n^2) Always
 
 
         InsertionSort(arr); //O(n)
