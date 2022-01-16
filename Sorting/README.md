@@ -2,7 +2,7 @@
 
 *Sorting Algos*
 - Selection Sort
-- Bubble Sort
+- Bubble Sort(https://github.com/vivek-khatri/DSA_Learning/blob/main/Sorting/Bubble%20Sort.md)
 - Insertion Sort
 - Cyclic Sort
 
