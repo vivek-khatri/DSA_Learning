@@ -7,11 +7,9 @@ public class Selection_Bubble_InsertionSort {
         int[] arr1= {5,4,3,2,1};
         int[] arr2= {2,3,4,5,1};
 
-//        BubbleSort(arr); //O(n)
-
-//        BubbleSort(arr1);//O(n^2)
-
-//        BubbleSort(arr2);//O(n^2)
+        BubbleSort(arr); //O(n)
+        BubbleSort(arr1);//O(n^2)
+        BubbleSort(arr2);//O(n^2)
 
 //Bubble Sort
 
@@ -24,11 +22,9 @@ public class Selection_Bubble_InsertionSort {
 
 
 
-//        SelectionSort(arr); //O(n^2)
-
-//        SelectionSort(arr1);//O(n^2)
-
-//        SelectionSort(arr2);//O(n^2)
+        SelectionSort(arr); //O(n^2)
+        SelectionSort(arr1);//O(n^2)
+        SelectionSort(arr2);//O(n^2)
 
 //Selection Sort
 
