@@ -1,4 +1,4 @@
-##Day1
+## Day1
 
 *Sorting Algos*
 - Selection Sort
